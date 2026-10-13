@@ -1,0 +1,11 @@
+# 个人配置（含用户变量，首次运行自动生成）
+config.ini
+
+# 编译产物 / 备份 / 日志
+*.exe
+*.zip
+*.log
+
+# 系统杂物
+Thumbs.db
+desktop.ini
